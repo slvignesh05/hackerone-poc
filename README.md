@@ -1,4 +1,4 @@
 # OFFTHERACK
 Website for offtherack merchandise (domain)
-###Header
+Link to our website below:
 https://izumigoto.github.io/Offtherack.github.io/
